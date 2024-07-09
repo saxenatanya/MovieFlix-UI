@@ -1,10 +1,12 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-![Uploading Screenshot 2024-07-09 at 22.54.33.png…]()
 
-![Uploading Screenshot 2024-07-09 at 22.55.23.png…]()
+<img width="1711" alt="Screenshot 2024-07-09 at 22 54 42" src="https://github.com/saxenatanya/MovieFlix-UI/assets/82470912/838dc6c4-2a25-45f2-af6c-3595f1f73a40">
 
+<img width="1719" alt="Screenshot 2024-07-09 at 22 55 15" src="https://github.com/saxenatanya/MovieFlix-UI/assets/82470912/3594104a-e9ad-4c52-94fa-140a440ff8fb">
+
+<img width="1701" alt="Screenshot 2024-07-09 at 22 55 23" src="https://github.com/saxenatanya/MovieFlix-UI/assets/82470912/de12ace6-9a88-4025-b808-fcbcb35cd364">
 
 ## Available Scripts
 
